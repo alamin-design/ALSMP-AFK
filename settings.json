@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "AL AFK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "ALSMP-SlX9.aternos.me",
+    "port": 25544,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -29,12 +29,8 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
-      ]
+      "repeat-delay": 1200,
+      "messages": [CREATOR ALAMIN OWNER OF THIS SMP]
     },
     "chat-log": true,
     "auto-reconnect": true,
